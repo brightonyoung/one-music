@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "circleci": "^0.3.3",
-    "cypress": "^7.0.0"
+    "circleci": "^0.3.3"
   },
   "name": "one-music",
   "version": "1.0.0",
@@ -19,5 +18,8 @@
     "url": "https://github.com/brightonyoung/one-music/issues"
   },
   "homepage": "https://github.com/brightonyoung/one-music#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "cypress": "^7.0.0"
+  }
 }
