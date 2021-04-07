@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cypress": "^7.0.0"
+  },
+  "name": "one-music",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightonyoung/one-music.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brightonyoung/one-music/issues"
+  },
+  "homepage": "https://github.com/brightonyoung/one-music#readme",
+  "description": ""
+}
